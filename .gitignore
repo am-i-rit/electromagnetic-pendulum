@@ -1,0 +1,9 @@
+/hardware/.history/
+*.kicad_prl
+*-backups/
+~*.lck
+*.kicad-save-*
+.DS_Store
+
+.DS_Store
+~*.lck
