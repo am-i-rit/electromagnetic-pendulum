@@ -5,5 +5,3 @@
 *.kicad-save-*
 .DS_Store
 
-.DS_Store
-~*.lck
